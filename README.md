@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Adham%20Hamdy&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Software%20%26%20Embedded%20Developer&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Adham%20Hamdy&fontSize=50&fontColor=ffffff&fontAlignY=38" width="100%" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="175" src="https://github-stats-extended.vercel.app/api?username=AdhamHamdy14&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=AdhamHamdy14&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="175" src="https://streak-stats.demolab.com/?user=AdhamHamdy14&theme=tokyonight&hide_border=true" />
 </div>
 
